@@ -1,6 +1,6 @@
 void main() {
   // 创建一个 Person 对象
-  var person = Person(name: 'John Doe', age: 30);
+  var person = Person(name: 'Zhouboda', age: 20);
 
   // 调用 greet 方法
   person.greet();
